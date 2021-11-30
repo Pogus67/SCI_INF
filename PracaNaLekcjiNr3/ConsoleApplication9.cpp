@@ -9,7 +9,7 @@ string zmienna;
 int liczba;
 char wybranie;
 
-szyfro co;
+szyfro co 
 
 
 int main()
